@@ -6,11 +6,11 @@ This project is to use the insight generated from the dataset to improve this fi
 
 
 ## Problem Statement;
-The stakeholders of the UK bank have hereby consulted me with carrying out a quick analysis and report because they wish to build an Headquater office in the location/region with the highest number of customers. They also wish to know the month in which the highest number of customers enrolled into there financial institution. And also at the opening event, the stakeholders wishes to award the Top 10 customers with the highest balance in there respective account Balance and to know the customers that are eligible to access loan from the bank in 2015.
+The financial institutions (UK Bank) in there first year(2015) of operations have hereby consulted me with carrying out a quick analysis and report, because there stakeholders wishes to build an Headquater office in the location/region with the highest number of customers. They also wish to know the month in which the highest number of customers enrolled into there financial institution. And also at the opening event of the new built Headquater, the stakeholders wishes to award the Top 10 customers with the highest balance in there respective account Balance and to know the customers that are eligible to access loan from the bank in 2015.
 
 -- After thinking critically, four questions needed an answers
 1. Total Customers By Region
-2. Total Customers By Month
+2. Total Customers Joined By Month 
 3. Top 10 Custpmers By Balance
 4. Loan Eligibility
 5. Other Relivants Insight
@@ -24,9 +24,9 @@ The stakeholders of the UK bank have hereby consulted me with carrying out a qui
 
 - The dataset was gotten from Quantum Analytics NG and the dataset contains 10 column and 40414 rows.
 Downloaded the dataset as csv file, then open it on Excel, then make it as a table.
-- Then i had to change the column Date Enrolled into English(United kingdom) format so as to be able to work within the datetime of the location of the financial institution.
+- Then i had to change the column Date Jioned into English (United kingdom) format, so as to be able to work within the datetime of the location of the financial institution.
 
-![](Date_Enrolled.PNG)
+![](Date_enrolled2.PNG)
 
  - Then saved the dataset as an Excel file and upload it into Tableau for futher analysis and visualization.
 
@@ -75,7 +75,7 @@ Downloaded the dataset as csv file, then open it on Excel, then make it as a tab
 ## Reconmendations;
   - England is the appropriate location to build the Headquater
   - The Top 10 Customers by Balance should compensated by award and considerable accessibility to multiple loan
-  - The total number of customers that enrolled in the bigining of the year was small compare to those that enrolled towards the end of the year, therefore the stakeholders have to collaborate with the media department in order to create more awareness for those months with considerably low customers enrollment.
+  - The total number of customers that jioned in the bigining of the year was small compare to those that jioned towards the end of the year, therefore the stakeholders have to collaborate with the media department in order to create more awareness for those months with considerably low customers enrollment.
 
 
      Thank you
