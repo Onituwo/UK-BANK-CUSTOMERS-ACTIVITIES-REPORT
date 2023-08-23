@@ -61,7 +61,7 @@ Downloaded the dataset as csv file, then open it on Excel, then make it as a tab
  
      ![](Loan_eligibility.PNG)
 
-     You can interact with the dashboard Here ()
+     **_You can interact with the dashboard Here_** (https://public.tableau.com/views/ABDULGANIYURIDWANONITUWOUKBANKCUSTOMERSASS/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
  ## Conclusion;
  
