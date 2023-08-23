@@ -57,9 +57,11 @@ Downloaded the dataset as csv file, then open it on Excel, then make it as a tab
 
  - Jason follow by(Adam,Yvonne,Blake,Alan,Paul,Dominic,Boris,David and Connor) has the highest Balance in their respective account amongst the customers
     
-  4. Then, as required by the stakeholder of the Bank couple with the set-aside conditions for loan eligibility by the management of the Bank. I used table to load all the Customer_ID, Name of the customers and created a calculate field to generate those that are eligible to access loan. Then added the shape to tick-mark those that are eligible and tick-canceled those that are not eligible
+  4. Then, as required by the stakeholder of the Bank couple with the set-aside conditions for loan eligibility by the management of the Bank. I used table to load all the Customer_ID, Name of the customers and created a calculate field to generate those that are eligible to access loan. Then added the shape to tick-mark ✔️ those that are eligible and tick-canceled ❎ those that are not eligible
  
      ![](Loan_eligibility.PNG)
+
+     You can interact with the dashboard Here ()
 
  ## Conclusion;
  
@@ -78,4 +80,4 @@ Downloaded the dataset as csv file, then open it on Excel, then make it as a tab
   - The total number of customers that jioned in the bigining of the year was small compare to those that jioned towards the end of the year, therefore the stakeholders have to collaborate with the media department in order to create more awareness for those months with considerably low customers enrollment.
 
 
-     Thank you
+     Thank you 😃
