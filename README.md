@@ -1,8 +1,7 @@
-## UK-BANK-CUSTOMERS-ACTIVITIES-REPORT
-- To know the activities of the UK bank customers in 2015, the number of the customers by month, the balance in there respective account, those that are eligible to access loan based on the condition set aside by the bank authority. 
+## UK BANK CUSTOMERS ACTIVITIES REPORT 
 
 ## Introduction:
-This project is to use the insight generated from the dataset to improve this financial institution (UK Bank) in the subsequent years,  and offering strategies,ultimately driving more business and revenue generations.
+This project is to use the insights generated from the dataset to improve this financial institution (UK Bank) in making data driven decision for subsequent years,  and offering strategies,ultimately driving more business and revenue generations.
 
 
 ## Problem Statement;
