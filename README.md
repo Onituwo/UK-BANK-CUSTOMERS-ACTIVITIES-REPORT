@@ -5,7 +5,7 @@ This project is used for the insights generated from the dataset in order to imp
 
 
 ## Problem Statement
-The financial institution (UK Bank) in their first year of operations (2015) have hereby consulted me in the early year of 2016 with the sole aim of  carrying out a quick analysis and report. This is due to the fact that their stakeholders wish to build an Headquater office in the location/region with the highest number of customers. They also wish to know the month in which the highest number of customers enrolled into their financial institution. And also at the opening event of the newly built Headquater, the stakeholders wish to award Top 10 customers with the highest Balance in their respective bank accounts and to know those customers that are eligible to access loans from the Bank.
+The financial institution (UK Bank) in their first year of operations (2015) have hereby consulted me in the early year of 2016 with the sole aim of  carrying out a quick analysis and report. This is due to the fact that their stakeholders wish to build an Headquater office in the location/region with the highest number of customers. They also wish to know the month in which the highest number of customers enrolled into their financial institution. And also at the opening event of the newly built Headquater, the stakeholders wish to compensate Top 10 customers with the highest Balance in their respective bank accounts and to know those customers that are eligible to access loans from the Bank.
 
 - After thinking critically, four questions are needed to be answered;
 1. Total Customers By Region
