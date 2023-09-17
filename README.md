@@ -10,7 +10,7 @@ The financial institution (UK Bank) in their first year of operations (2015) hav
 - After thinking critically, four questions are needed to be answered;
 1. Total Customers By Region
 2. Total Customers enrolled Per Month 
-3. Top 10 Customers By highest account Balances
+3. Top 10 Customers by highest account Balances
 4. Loan Eligibilities for qualified customers
 5. Other Relivants Insight
 
